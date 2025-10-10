@@ -4,19 +4,19 @@
     "url": "https://watch.jackmennie.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.jackmennie.dev.ico",
     "slug": "mennie-flix",
-    "status": "down",
-    "uptime": "98.44%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
-    "time": 4357,
-    "timeDay": 4357,
-    "timeWeek": 4357,
-    "timeMonth": 4357,
-    "timeYear": 4357,
+    "status": "up",
+    "uptime": "93.61%",
+    "uptimeDay": "93.61%",
+    "uptimeWeek": "93.61%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "93.61%",
+    "time": 3664,
+    "timeDay": 3664,
+    "timeWeek": 3664,
+    "timeMonth": 3664,
+    "timeYear": 3664,
     "dailyMinutesDown": {
-      "2025-10-10": 13
+      "2025-10-10": 57
     }
   }
 ]
