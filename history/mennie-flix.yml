@@ -1,7 +1,7 @@
 url: https://watch.jackmennie.dev/
-status: up
-code: 200
-responseTime: 1127
-lastUpdated: 2025-12-10T23:22:39.708Z
+status: down
+code: 502
+responseTime: 3775
+lastUpdated: 2025-12-11T02:01:38.032Z
 startTime: 2025-10-10T07:43:12.741Z
 generator: Upptime <https://github.com/upptime/upptime>
